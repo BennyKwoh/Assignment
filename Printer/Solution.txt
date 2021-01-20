@@ -1,0 +1,4 @@
+How i got the solution was figuring out the design, after figuring out the design,
+i tried multiple times and tested the results, to figure out the method for each letter.
+
+i matched the number of spaces between each asterisk for each row, and according to the font size.
